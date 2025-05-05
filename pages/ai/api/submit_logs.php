@@ -9,6 +9,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $manager_id = $data['manager_id'];
     $project_id = $data['project_id'];
     $log_text = $data['log_text'];
+    
     $evidence_path = $data['evidence_path'] ?? null;
     $voice_clip_path = $data['voice_clip_path'] ?? null;
     $created_at = date("Y-m-d H:i:s");

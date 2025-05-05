@@ -86,7 +86,7 @@
         <div class="founders-cards">
             <!-- Founder 1 -->
             <div class="founder-card">
-                <div class="founder-image" style="background-image: url('images/placeholder.png');">
+                <div class="founder-image" style="background-image: url('images/developers/Charu.jpg');">
                     <div class="founder-overlay">
                         <h3>Charu Goswami</h3>
                         <p>Fullstack Developer</p>
@@ -95,7 +95,7 @@
             </div>
             <!-- Founder 2 -->
             <div class="founder-card">
-                <div class="founder-image" style="background-image: url('images/Ansh.jpg');">
+                <div class="founder-image" style="background-image: url('images/developers/Ansh.jpg');">
                     <div class="founder-overlay">
                         <h3>Ansh Verma</h3>
                         <p>Fullstack Developer</p>
@@ -104,7 +104,7 @@
             </div>
             <!-- Founder 3 -->
             <div class="founder-card">
-                <div class="founder-image" style="background-image: url('images/placeholder.png');">
+                <div class="founder-image" style="background-image: url('images/developers/ayush.jpg');">
                     <div class="founder-overlay">
                         <h3>Ayush Kumar Jha</h3>
                         <p>AI & ML Engineer</p>
@@ -113,7 +113,7 @@
             </div>
             <!-- Founder 4 -->
             <div class="founder-card">
-                <div class="founder-image" style="background-image: url('images/Anchal.jpg');">
+                <div class="founder-image" style="background-image: url('images/developers/Anchal.jpg');">
                     <div class="founder-overlay">
                         <h3>Anchal Bhandari</h3>
                         <p>Data Analyst</p>
@@ -122,7 +122,7 @@
             </div>
             <!-- Founder 5 -->
             <div class="founder-card">
-                <div class="founder-image" style="background-image: url('images/placeholder.png');">
+                <div class="founder-image" style="background-image: url('images/developers/deepak.jpg');">
                     <div class="founder-overlay">
                         <h3>Deepak Chauhan</h3>
                         <p>ML Engineer</p>

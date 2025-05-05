@@ -95,9 +95,7 @@
         <ul class="submenu" id="material-submenu">
         <li><a href="../pages/material/suppliers.php"><i class="fas fa-truck"></i> Suppliers</a></li>
           <li><a href="../pages/material/requisition.php"><i class="fas fa-box-open"></i> Material Requisition</a></li>
-          <li><a href="../pages/material/comparison.php"><i class="fas fa-arrow-right"></i> Comparison</a></li>
           <li><a href="../pages/material/orders.php"><i class="fas fa-box"></i> Orders</a></li>
-          <li><a href="../pages/material/bills.php"><i class="fas fa-file-invoice"></i> Bills</a></li>
           <li><a href="../pages/material/transportation.php"><i class="fas fa-truck-loading"></i> Transportation</a></li>
           <li><a href="../pages/material/inventory_controls.php"><i class="fas fa-cogs"></i> Inventory Controls</a></li>
         </ul>
